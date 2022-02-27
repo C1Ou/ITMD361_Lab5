@@ -67,6 +67,8 @@ p{
 .circle img{
 	height: 100%;
 }
+
+
 #div2{
 	width: 900px;
 	height: 350px;
@@ -74,4 +76,22 @@ p{
 	background-color: rgba(241, 237, 225, 0.3);
 	float: left;
 	margin: 10px 50px;
+}
+.tb1{
+	width: 800px;
+	float: right;
+
+}
+.tb1 table{
+	border: 2px solid;
+	border-color: white;
+
+}
+.tb1 table th{
+	background-color: rgba(179, 184, 188, 0.3);
+	color: red;
+}
+.tb1 table td{
+	background-color: rgba(76, 113, 139, 0.3);
+	color: white;
 }

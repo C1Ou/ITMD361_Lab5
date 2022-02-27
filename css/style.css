@@ -93,9 +93,20 @@ p{
 }
 .tb1 table th{
 	background-color: rgba(179, 184, 188, 0.3);
-	color: red;
+	color: #e83725;
+	font-family: 'Anton', sans-serif;
+	font-size: 1em;
+	height: 35px;
 }
 .tb1 table td{
 	background-color: rgba(76, 113, 139, 0.3);
 	color: white;
+	height: 25px;
+	font-family: 'Comfortaa', cursive;
+}
+#wd1{
+	color: yellow;
+	font-family:'Audiowide', cursive;
+	font-size: 1em;
+
 }

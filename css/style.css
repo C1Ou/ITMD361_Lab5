@@ -77,14 +77,18 @@ p{
 	float: left;
 	margin: 10px 50px;
 }
+
 .tb1{
-	width: 800px;
-	float: right;
+
+	
 
 }
 .tb1 table{
+	width: 1300px;
 	border: 2px solid;
 	border-color: white;
+	margin: auto;
+	text-align: center;
 
 }
 .tb1 table th{

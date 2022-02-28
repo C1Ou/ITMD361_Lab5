@@ -109,16 +109,43 @@ p{
 	height: 25px;
 	font-family: 'Comfortaa', cursive, sans-serif;
 }
-#wd1{
+.wd1{
 	color: yellow;
 	font-family:'Audiowide', cursive, sans-serif;
 	font-size: 1em;
 
 }
+#wd1{
+	color: yellow;
+	font-family:'Audiowide', cursive, sans-serif;
+	font-size: 1em;
+}
 #wd2{
+	color: yellow;
+	font-family:'Audiowide', cursive, sans-serif;
+	font-size: 1em;
+}
+#wd3{
+	color: yellow;
+	font-family:'Audiowide', cursive, sans-serif;
+	font-size: 1em;
+}
+#wd4{
+	color: yellow;
+	font-family:'Audiowide', cursive, sans-serif;
+	font-size: 1em;
+}
+#wd5{
+	color: yellow;
+	font-family:'Audiowide', cursive, sans-serif;
+	font-size: 1em;
+}
+.sup1{
 	vertical-align: super;
 	font-size: 0.6em;
 }
+
+
 #p2{
 	color: #ffe22c;
 	background-color: rgba(232, 55, 27, 0.6);
